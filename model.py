@@ -1,8 +1,4 @@
 # *-* coding: utf-8 *-*
-"""
-作者：XGM
-日期：2023.04.12 10:24:23
-"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
